@@ -1,0 +1,13 @@
+{
+  "onboardingConfig": {
+    "deviceOnboardingId": "123456",
+    "mnId": "fLsg",
+    "setupId": "123",
+    "vid": "12345Hub",
+    "deviceTypeId": "Hub",
+    "ownershipValidationTypes": [
+      "JUSTWORKS"
+    ],
+    "identityType": "ED25519"
+  }
+}
